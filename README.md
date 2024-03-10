@@ -1,4 +1,4 @@
-Basic java app that simulates a simple CRUD of students, using a local SQL database.
+Basic java website that simulates a simple CRUD of students, using a local SQL database.
 
 View of all the students
 ![](src/main/resources/screenshots/screen1.png)
